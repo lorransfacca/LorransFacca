@@ -1,7 +1,9 @@
-<h1 align="center"> Seja bem Vindo ao GitHub do Lorrans Facca </h1>
+ Seja bem Vindo ao GitHub
 
- <h1 align="center" font-family="Snell Roundhand, cursive">💻 Atualmente, estou participando do bootcamp na <a href="https://brazil.generation.org" target="_blank">Generation</a>, visando me tornar uma Dev fullstack java Jr. </h1>
-
+💻 Atualmente, estou participando do bootcamp na <a href="https://brazil.generation.org" target="_blank">Generation Brasil</a></h1>
+ 
+Desenvolvedor Jr Full Stack em formação na Generation Brasil
+Cursando Superior de Tecnologia em Análise e Desenvolvimento de Sistemas no IFSP de São Paulo
 
 ## Linguagens e Ferramentas
 <p> 
@@ -22,6 +24,9 @@
     <a href="https://www.linkedin.com/in/lorrans-facca-47631773/" target="_blank">
     <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt = "" />
   </a>
+ <a href="https://camo.githubusercontent.com/571384769c09e0c66b45e39b5be70f68f552db3e2b2311bc2064f0d4a9f5983b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465"></a>
+ 
+ 
  </p>
 
 ## Status GitHub 

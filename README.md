@@ -1,6 +1,6 @@
 <h1 align="center"> Seja bem Vindo ao GitHub do Lorrans Facca </h1>
 
- <h1 align="center" font-family"URW Chancery L, cursive">💻 Atualmente, estou participando do bootcamp na <a href="https://brazil.generation.org" target="_blank">Generation</a>, visando me tornar uma Dev fullstack java Jr. </h1>
+ <h1 align="center" font-family="Snell Roundhand, cursive">💻 Atualmente, estou participando do bootcamp na <a href="https://brazil.generation.org" target="_blank">Generation</a>, visando me tornar uma Dev fullstack java Jr. </h1>
 
 
 ## Linguagens e Ferramentas
@@ -27,4 +27,4 @@
 ## Status GitHub 
 
 ![Estatísticas do Github "seu nome"](https://github-readme-stats.vercel.app/api?username=lorransfacca&show_icons=true&theme=radical&hide&=prs,issues,contribs)
-[![Linguagens mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=lorransfacca&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Linguagens mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=lorransfacca&layout=compact)](https://github.com/lorransfacca/github-readme-stats)

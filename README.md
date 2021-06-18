@@ -1,6 +1,6 @@
 <h1 align="center"> Seja bem Vindo ao GitHub do Lorrans Facca </h1>
 
- 💻 Atualmente, estou participando do bootcamp na <a href="https://brazil.generation.org" target="_blank">Generation</a>, visando me tornar uma Dev fullstack java Jr.
+ <h1 align="center">💻 Atualmente, estou participando do bootcamp na <a href="https://brazil.generation.org" target="_blank">Generation</a>, visando me tornar uma Dev fullstack java Jr. </h1>
 
 
 ## Linguagens e Ferramentas

@@ -1,11 +1,10 @@
  Seja bem Vindo ao GitHub
 
-💻 Atualmente, estou participando do bootcamp na <a href="https://brazil.generation.org" target="_blank">Generation Brasil</a></h1>
- 
-Desenvolvedor Full Stack Java Jr em formação na Generation Brasil
-Cursando Superior de Tecnologia em Análise e Desenvolvimento de Sistemas no IFSP de São Paulo
-Conhecimento em Python na Programação Web da Mastertech de São Paulo
-Conhecimento na Programação Web no Senai de São Paulo
+💻 Atualmente, estou participando do bootcamp na <a href="https://brazil.generation.org" target="_blank">Generation</a><br>
+💻 Desenvolvedor Full Stack Java Jr em formação na Generation Brasil<br>
+💻 Cursando Superior de Tecnologia em Análise e Desenvolvimento de Sistemas no IFSP de São Paulo<br>
+💻 Conhecimento em Python na Programação Web da Mastertech de São Paulo<br>
+💻 Conhecimento na Programação Web no Senai de São Paulo
 
 
 <img src="https://static.imasters.com.br/wp-content/uploads/2015/11/4_Progresso4.gif" alt="gif">

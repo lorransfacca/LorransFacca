@@ -36,7 +36,7 @@ Cursando Superior de Tecnologia em Análise e Desenvolvimento de Sistemas no IFS
     <a href="https://www.linkedin.com/in/lorrans-facca-47631773/" target="_blank">
     <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt = "" />
   </a>
- <a href="lorranfac@gmail.com" target="_blank">
+ <a href="maito:lorranfac@gmail.com">
  <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=""/>
  </a>
  </p>

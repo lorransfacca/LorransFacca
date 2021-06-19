@@ -2,8 +2,13 @@
 
 💻 Atualmente, estou participando do bootcamp na <a href="https://brazil.generation.org" target="_blank">Generation Brasil</a></h1>
  
-Desenvolvedor Jr Full Stack em formação na Generation Brasil
+Desenvolvedor Full Stack Java Jr em formação na Generation Brasil
 Cursando Superior de Tecnologia em Análise e Desenvolvimento de Sistemas no IFSP de São Paulo
+Conhecimento em Python na Programação Web da Mastertech de São Paulo
+Conhecimento na Programação Web no Senai de São Paulo
+
+
+<img src="https://static.imasters.com.br/wp-content/uploads/2015/11/4_Progresso4.gif" alt="gif">
 
 ## Linguagens e Ferramentas
 <p> 
@@ -45,3 +50,5 @@ Cursando Superior de Tecnologia em Análise e Desenvolvimento de Sistemas no IFS
 
 ![Estatísticas do Github "seu nome"](https://github-readme-stats.vercel.app/api?username=lorransfacca&show_icons=true&theme=radical&hide&=prs,issues,contribs)
 [![Linguagens mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=lorransfacca&layout=compact)](https://github.com/lorransfacca/github-readme-stats)
+
+<img src="https://camo.githubusercontent.com/58226ef7fb5c5a17cc5b3c7057a0460f8f8ecb520501a2cca2a6943f9bd67fb0/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d616472666e74">

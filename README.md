@@ -3,7 +3,7 @@
 💻 Atualmente, estou participando do bootcamp na <a href="https://brazil.generation.org" target="_blank">Generation</a><br>
 💻 Desenvolvedor Full Stack Java Jr em formação na Generation Brasil<br>
 💻 Cursando Superior de Tecnologia em Análise e Desenvolvimento de Sistemas no IFSP de São Paulo<br>
-💻 Conhecimento em Python na Programação Web da Mastertech de São Paulo<br>
+💻 Conhecimento em Python na Programação Web na Mastertech de São Paulo<br>
 💻 Conhecimento na Programação Web no Senai de São Paulo
 
 

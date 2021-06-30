@@ -34,14 +34,14 @@
 ## Contato
 <p align = "left">
     <a href="https://www.linkedin.com/in/lorrans-facca-47631773/" target="_blank">
-    <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt = "" />
+    
   </a>
  <a href="lorranfac@gmail.com">
  <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=""/>
  </a>
  </p>
 
-## Status GitHub 
+Status GitHub 
 
 ![Estatísticas do Github "seu nome"](https://github-readme-stats.vercel.app/api?username=lorransfacca&show_icons=true&theme=radical&hide&=prs,issues,contribs)
 [![Linguagens mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=lorransfacca&layout=compact)](https://github.com/lorransfacca/github-readme-stats)

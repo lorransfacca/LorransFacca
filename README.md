@@ -1,4 +1,4 @@
- Seja bem Vindo ao meu GitHub <img src="https://raw.githubusercontent.com/leticiadasilva/leticiadasilva/main/images/Hi.gif" height="25px" width="25px"/>
+## Seja bem Vindo ao meu GitHub <img src="https://raw.githubusercontent.com/leticiadasilva/leticiadasilva/main/images/Hi.gif" height="25px" width="25px"/>
 
 💻 Atualmente, estou participando do bootcamp na <a href="https://brazil.generation.org" target="_blank">Generation</a><br>
 💻 Desenvolvedor Full Stack Java Jr em formação na Generation Brasil<br>
@@ -31,17 +31,16 @@
   <img src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white" alt="Angularjs" />
 </p>
 
-## Contato
+## <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f50d.png" height="30px" width="30px"/> Meu Contato
 <p align = "left">
-    <a href="https://www.linkedin.com/in/lorrans-facca-47631773/" target="_blank">
-    
-  </a>
+ <img src="https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" a href="https://www.linkedin.com/in/lorrans-facca-47631773/" target="_blank"/>
+
  <a href="lorranfac@gmail.com">
  <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=""/>
  </a>
  </p>
 
-Status GitHub 
+## <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png" height="30px" width="30px"/> Status GitHub 
 
 ![Estatísticas do Github "seu nome"](https://github-readme-stats.vercel.app/api?username=lorransfacca&show_icons=true&theme=radical&hide&=prs,issues,contribs)
 [![Linguagens mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=lorransfacca&layout=compact)](https://github.com/lorransfacca/github-readme-stats)

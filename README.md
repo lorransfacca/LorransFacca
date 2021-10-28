@@ -1,6 +1,6 @@
 ## Seja bem Vindo ao meu GitHub <img src="https://raw.githubusercontent.com/leticiadasilva/leticiadasilva/main/images/Hi.gif" height="25px" width="25px"/>
 
-💻 Atualmente, estou participando do bootcamp na <a href="https://carambola.com.vc" target="_blank">Carambola</a><br>
+💻 Atualmente, estou participando do bootcamp na <a href="https://www.carambola.com.vc/" target="_blank">Carambola</a><br>
 💻 Participei do bootcamp na Generation<br>
 💻 Desenvolvedor Full Stack Java Jr em formação na Generation Brasil<br>
 💻 Cursando Superior de Tecnologia em Análise e Desenvolvimento de Sistemas no IFSP de São Paulo<br>

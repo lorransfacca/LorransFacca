@@ -2,7 +2,7 @@
 
 💻 Trabalhei como Desenvolvedor I na Carambola Tech<br>
 💻 Participei do bootcamp na <a href="https://www.carambola.com.vc/" target="_blank">Carambola Tech</a><br>
-💻 Desenvolvedor Full Stack Java Jr Formado na Generation Brasil<br>
+💻 Formado na Generation Brasil como Desenvolvedor Full Stack Java Jr<br>
 💻 Participei do bootcamp na <a href="https://brazil.generation.org/" target="_blank">Generation Brasil</a><br>
 💻 Desenvolvedor Full Stack Java Jr em formação na Generation Brasil<br>
 💻 Cursando Superior de Tecnologia em Análise e Desenvolvimento de Sistemas no IFSP de São Paulo<br>

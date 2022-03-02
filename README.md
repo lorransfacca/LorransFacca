@@ -1,7 +1,9 @@
 ## Seja bem Vindo ao meu GitHub <img src="https://raw.githubusercontent.com/leticiadasilva/leticiadasilva/main/images/Hi.gif" height="25px" width="25px"/>
 
-💻 Participei do bootcamp na <a href="https://www.carambola.com.vc/" target="_blank">Carambola</a><br>
-💻 Participei do bootcamp na <a href="https://brazil.generation.org/" target="_blank">Generation</a><br>
+💻 Trabalhei como Desenvolvedor I na Carambola Tech<br>
+💻 Participei do bootcamp na <a href="https://www.carambola.com.vc/" target="_blank">Carambola Tech</a><br>
+💻 Desenvolvedor Full Stack Java Jr Formado na Generation Brasil<br>
+💻 Participei do bootcamp na <a href="https://brazil.generation.org/" target="_blank">Generation Brasil</a><br>
 💻 Desenvolvedor Full Stack Java Jr em formação na Generation Brasil<br>
 💻 Cursando Superior de Tecnologia em Análise e Desenvolvimento de Sistemas no IFSP de São Paulo<br>
 💻 Conhecimento em Python na Programação Web na Mastertech de São Paulo<br>

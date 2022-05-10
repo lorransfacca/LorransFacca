@@ -1,7 +1,6 @@
 ~~~javascript
-Esta é uma linha de código em Javascript.
+   ## Seja bem Vindo ao meu GitHub <img src="https://raw.githubusercontent.com/leticiadasilva/leticiadasilva/main/images/Hi.gif" height="25px" width="25px"/>
 ~~~
-## Seja bem Vindo ao meu GitHub <img src="https://raw.githubusercontent.com/leticiadasilva/leticiadasilva/main/images/Hi.gif" height="25px" width="25px"/>
 
 💻 Trabalhei como Desenvolvedor I na Carambola Tech<br>
 💻 Participei do bootcamp na <a href="https://www.carambola.com.vc/" target="_blank">Carambola Tech</a><br>

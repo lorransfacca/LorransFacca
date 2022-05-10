@@ -51,3 +51,29 @@
 [![Linguagens mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=lorransfacca&layout=compact)](https://github.com/lorransfacca/github-readme-stats)
 
 <img src="https://camo.githubusercontent.com/58226ef7fb5c5a17cc5b3c7057a0460f8f8ecb520501a2cca2a6943f9bd67fb0/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d616472666e74">
+
+name: Generate Datas
+
+on:
+  schedule: # execute every 12 hours
+    - cron: "* */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    name: Jobs to update datas
+    runs-on: ubuntu-latest
+    steps:
+      # Snake Animation
+      - uses: Platane/snk@master
+        id: snake-gif
+        with:
+          github_user_name: lorransfacca
+          svg_out_path: dist/github-contribution-grid-snake.svg
+
+      - uses: crazy-max/ghaction-github-pages@v2.1.3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

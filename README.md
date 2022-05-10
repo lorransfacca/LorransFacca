@@ -1,16 +1,36 @@
 
 ## Seja bem Vindo ao meu GitHub <img src="https://raw.githubusercontent.com/leticiadasilva/leticiadasilva/main/images/Hi.gif" height="25px" width="25px"/>
+<a href="https://www.carambola.com.vc/" target="_blank">Carambola Tech
 ~~~javascript
-💻 Trabalhei como Desenvolvedor I na Carambola Tech<br>
-💻 Participei do bootcamp na <a href="https://www.carambola.com.vc/" target="_blank">Carambola Tech</a><br>
-💻 Formado na Generation Brasil como Desenvolvedor Full Stack Java Jr<br>
-💻 Desenvolvedor Full Stack Java Jr em formação na Generation Brasil<br>
-💻 Participei do bootcamp na <a href="https://brazil.generation.org/" target="_blank">Generation Brasil</a><br>
-💻 Cursando Superior de Tecnologia em Análise e Desenvolvimento de Sistemas no IFSP de São Paulo<br>
-💻 Conhecimento em Python na Programação Web na Mastertech de São Paulo<br>
-💻 Conhecimento na Programação Web no Senai de São Paulo
-   
+💻 Trabalhei como Desenvolvedor I na Carambola Tech
 ~~~ 
+~~~javascript
+💻 Participei no bootcamp na Carambola Tech
+~~~ 
+<a href="https://www.carambola.com.vc/" target="_blank">Generation Brasil   
+~~~javascript
+💻 Formado na Generation Brasil como Desenvolvedor Full Stack Java Jr
+~~~    
+~~~javascript
+💻 Desenvolvedor Full Stack Java Jr em formação na Generation Brasil
+~~~  
+~~~javascript
+💻 Participei no bootcamp na Generation Brasil   
+~~~  
+<a href="https://www.carambola.com.vc/" target="_blank">IFSP de São Paulo   
+~~~javascript
+💻 Cursando Superior de Tecnologia em Análise e Desenvolvimento de Sistemas no IFSP de São Paulo  
+~~~
+<a href="https://www.carambola.com.vc/" target="_blank">Mastertech
+~~~javascript
+💻 Conhecimento em Python na Programação Web na Mastertech de São Paulo  
+~~~
+<a href="https://www.carambola.com.vc/" target="_blank">Senai
+~~~javascript
+💻 Conhecimento na Programação Web no Senai de São Paulo 
+~~~
+
+<!--
 💻 Trabalhei como Desenvolvedor I na Carambola Tech<br>
 💻 Participei do bootcamp na <a href="https://www.carambola.com.vc/" target="_blank">Carambola Tech</a><br>
 💻 Formado na Generation Brasil como Desenvolvedor Full Stack Java Jr<br>
@@ -19,7 +39,7 @@
 💻 Cursando Superior de Tecnologia em Análise e Desenvolvimento de Sistemas no IFSP de São Paulo<br>
 💻 Conhecimento em Python na Programação Web na Mastertech de São Paulo<br>
 💻 Conhecimento na Programação Web no Senai de São Paulo
-
+-->
 
 <img src="https://static.imasters.com.br/wp-content/uploads/2015/11/4_Progresso4.gif" alt="gif">
 

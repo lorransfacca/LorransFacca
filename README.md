@@ -1,5 +1,9 @@
-
 ## Seja bem Vindo ao meu GitHub <img src="https://raw.githubusercontent.com/leticiadasilva/leticiadasilva/main/images/Hi.gif" height="25px" width="25px"/>
+
+<div align="center">
+  <img class="gif" aling="center" src="https://static.imasters.com.br/wp-content/uploads/2015/11/4_Progresso4.gif">
+</div>
+
 <a href="https://www.carambola.com.vc/" target="_blank">Carambola Tech
 ~~~javascript
 💻 Trabalhei como Desenvolvedor I na Carambola Tech
@@ -40,10 +44,7 @@
 💻 Conhecimento em Python na Programação Web na Mastertech de São Paulo<br>
 💻 Conhecimento na Programação Web no Senai de São Paulo
 -->
-
-<img src="https://static.imasters.com.br/wp-content/uploads/2015/11/4_Progresso4.gif" alt="gif">
-
-## Linguagens e Ferramentas
+## Soft Skills
 <p> 
   <img src="http://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" /> 
   <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse" />

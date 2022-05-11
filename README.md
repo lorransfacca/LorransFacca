@@ -21,17 +21,17 @@
 ~~~javascript
 💻 Participei no bootcamp na Generation Brasil   
 ~~~  
-<a href="https://ptb.ifsp.edu.br/?msclkid=aad8b917d0b511ec9b9000bb9104669a" target="_blank">IFSP de São Paulo   
+<a href="https://ptb.ifsp.edu.br/?msclkid=aad8b917d0b511ec9b9000bb9104669a" target="_blank">IFSP - Instituto Federal de São Paulo   
 ~~~javascript
-💻 Cursando Superior de Tecnologia em Análise e Desenvolvimento de Sistemas no IFSP de São Paulo  
+💻 Cursando Superior de Tecnologia em Análise e Desenvolvimento de Sistemas  
 ~~~
 <a href="https://mastertech.com.br/" target="_blank">Mastertech
 ~~~javascript
-💻 Conhecimento em Python na Programação Web na Mastertech de São Paulo  
+💻 Conhecimento em Python na Programação Web 
 ~~~
 <a href="https://www.sp.senai.br/" target="_blank">Senai
 ~~~javascript
-💻 Conhecimento na Programação Web no Senai de São Paulo 
+💻 Conhecimento na Programação Web
 ~~~
 
 <!--

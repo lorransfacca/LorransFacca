@@ -34,16 +34,6 @@
 💻 Conhecimento na Programação Web
 ~~~
 
-<!--
-💻 Trabalhei como Desenvolvedor I na Carambola Tech<br>
-💻 Participei do bootcamp na <a href="https://www.carambola.com.vc/" target="_blank">Carambola Tech</a><br>
-💻 Formado na Generation Brasil como Desenvolvedor Full Stack Java Jr<br>
-💻 Desenvolvedor Full Stack Java Jr em formação na Generation Brasil<br>
-💻 Participei do bootcamp na <a href="https://brazil.generation.org/" target="_blank">Generation Brasil</a><br>
-💻 Cursando Superior de Tecnologia em Análise e Desenvolvimento de Sistemas no IFSP de São Paulo<br>
-💻 Conhecimento em Python na Programação Web na Mastertech de São Paulo<br>
-💻 Conhecimento na Programação Web no Senai de São Paulo
--->
 ## Soft Skills
 <p> 
   <img src="http://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" /> 
@@ -77,9 +67,12 @@
  </a>
  </p>
 
+
 ## <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png" height="30px" width="30px"/> Status GitHub 
 
-![Estatísticas do Github "seu nome"](https://github-readme-stats.vercel.app/api?username=lorransfacca&show_icons=true&theme=radical&hide&=prs,issues,contribs)
-[![Linguagens mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=lorransfacca&layout=compact)](https://github.com/lorransfacca/github-readme-stats)
+![Estatísticas do Github "seu nome"](https://github-readme-stats.vercel.app/api?username=lorransfacca&theme=blue-green)
+[![Linguagens mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=lorransfacca&theme=blue-green)](https://github.com/lorransfacca/github-readme-stats)
+  
+
 
 <img src="https://camo.githubusercontent.com/58226ef7fb5c5a17cc5b3c7057a0460f8f8ecb520501a2cca2a6943f9bd67fb0/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d616472666e74">
